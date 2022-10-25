@@ -11,9 +11,9 @@
 <img align="left" alt="Html" width="30px" src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" style="padding-right:10px;" />
 <img align="left" alt="Css" width="20px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="padding: 0 10px 10px 0;" />
-<img align="left" alt="Node" width="25px" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="padding: 0 10px 10px 0">
-<img  align="left" alt="Postman" width="90px" height="40px" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" style="padding:0 0 10px 10px;">
+<img align="left" alt="Typescript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="padding: 0 20px 10px 0;" />
+<img align="left" alt="Node" width="25px" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="padding: 0 20px 10px 0">
+<img  align="left" alt="Postman" width="90px" height="40px" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" style="padding:0 0 10px 15px;">
 
 <br/>
 <br/>
