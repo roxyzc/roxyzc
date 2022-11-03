@@ -22,5 +22,10 @@
 <img align="left" alt="MongoDB" width="140px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" style="padding-right:10px;">
 <img align="left" alt="Postgresql" width="140px" height="40px" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_PostgreSQL_600x400%402x.png" style="padding-right:10px;">
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=roxyzc&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=roxyzc&theme=dark&hide_border=true" width = 400>
+</p>
+
 <br/>
 <br/>
