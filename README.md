@@ -13,7 +13,7 @@
 <img align="left" alt="JavaScript" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Node" width="25px" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="padding-right:10px;">
-<img  align="left" alt="Postman" width="25px" height="40px" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" style="padding-right:10px;">
+<img  align="left" alt="Postman" width="35px" height="25px" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" style="padding-right:10px;">
 </div>
 <br/>
 <br/>
