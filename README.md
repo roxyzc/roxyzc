@@ -1,30 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm <a href='https://www.instagram.com/roxyzc/'>Ridho Pikriyansyah</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"><br/>~ Backend Developer ~</h1>
-  <h3>🏠 Kab.Bekasi - Jawa Barat, Indonesia</h3>
+  <h1>Hi there, I'm <a href='https://www.instagram.com/roxyzc/'>Ridho Pikriyansyah</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 </div>
-
-<br/>
-
-### Languages and Tools:
-<div>
-<img align="left" alt="VsCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Html" width="30px" src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" style="padding-right:10px;" />
-<img align="left" alt="Css" width="20px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Node" width="25px" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="padding-right:10px;">
-<img  align="left" alt="Postman" width="80px" height="40px" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" style="padding-right:10px;">
-</div>
-<br/>
-<br/>
-
-### Database
-<div>
-<img align="left" alt="MongoDB" width="140px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" style="padding-right:10px;">
-<img align="left" alt="Postgresql" width="140px" height="40px" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_PostgreSQL_600x400%402x.png" style="padding-right:10px;">
-</div>
-<br/>
-<br/>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=roxyzc&show_icons=true&theme=bear" width = 400>
