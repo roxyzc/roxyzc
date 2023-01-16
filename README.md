@@ -13,6 +13,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=roxyzc&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
+  <img src="https://github-readme-stats.vercel.app/api?username=roxyzc&show_icons=true" />
   </picture>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=roxyzc&theme=dark&hide_border=true">
 </p>
