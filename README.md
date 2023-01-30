@@ -9,7 +9,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=roxyzc&show_icons=true&theme=bear" width = 350>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=roxyzc&theme=dark&hide_border=true" width = 365>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=roxyzc&theme=dark&hide_border=true" width = 368>
 </p>
 
 <br/>
